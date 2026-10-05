@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">O avanço da tecnologia e as inovações que ainda estão por vir despertam minha curiosidade e me motivam a acompanhar suas constantes transformações. Meu interesse pela área surgiu desde cedo e só se fortaleceu ao longo dos anos. Quero contribuir ativamente para as mudanças que a tecnologia promove no mundo, ajudando a desenvolver soluções inovadoras.<br><br>Atualmente, estou em busca de um estágio nessa área tão essencial para o mercado de trabalho. Tenho experiência em infraestrutura de computadores e estou cursando o 5º semestre da faculdade de Sistemas de Informação.<br><br>Linkedin:<br>www.linkedin.com/in/davigama</p>
+<p align="left">Sou Assessor Estratégico na Prefeitura de Guararema, onde atuo na interseção entre gestão pública, qualidade e tecnologia. Meu trabalho é planejar, implementar e monitorar processos de controle e melhoria da qualidade, com foco em conformidade com as normas ISO 9001 e ISO 14001, gestão metrológica e controle patrimonial.
+
+No dia a dia, coordeno o controle de calibração e qualificação térmica de equipamentos de diversas secretarias, acompanhando cronogramas, certificados e renovações de contratos.
+
+Minha base técnica vem de Sistemas de Informação pela Braz Cubas, com conclusão prevista para o fim de 2026 e TCC voltado à segurança em aplicações web, além de experiência prática em infraestrutura de TI e formação complementar em Python e ciência de dados. A formação técnica em Administração pela Etec completa essa visão, unindo gestão e tecnologia.
+
+Acredito que a modernização do setor público passa por processos bem controlados, dados confiáveis e decisões fundamentadas. Por isso, meu próximo passo é a especialização em Governança de TI, aprofundando temas como gestão de riscos, compliance, segurança da informação e governança de dados.
+<br><br>Linkedin:<br>www.linkedin.com/in/davigama</p>
 
 ###
 
