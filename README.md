@@ -16,7 +16,7 @@ Minha base técnica vem de Sistemas de Informação pelo Centro Universitário B
 
 Acredito que a modernização do setor público passa por processos bem controlados, dados confiáveis e decisões fundamentadas. Por isso, meu próximo passo é a especialização em Governança de TI, Segurança Digital e Gestão de Dados, aprofundando temas como gestão de riscos, compliance, segurança da informação e governança de dados.
 
-<br><br>E-msil:<br>davigamasan20@outlook.com</p>
+<br><br>E-mail:<br>davigamasan20@outlook.com</p>
 <br><br>Linkedin:<br>www.linkedin.com/in/davigama</p>
 
 ###
