@@ -10,13 +10,13 @@
 
 ###
 
-<p align="left">Sou Assessor Estratégico na Prefeitura de Guararema, onde atuo na interseção entre gestão pública, qualidade e tecnologia. Meu trabalho é planejar, implementar e monitorar processos de controle e melhoria da qualidade, com foco em conformidade com as normas ISO 9001 e ISO 14001, gestão metrológica e controle patrimonial.
+<p align="left">Sou Assessor Estratégico na Prefeitura de Guararema, onde atuo na interseção entre gestão pública, qualidade e tecnologia. Atuando no planejamento, implementação e monitoramento de processos e controle e melhoria da qualidade, com foco em conformidade com as normas ISO 9001 e ISO 14001.
 
-No dia a dia, coordeno o controle de calibração e qualificação térmica de equipamentos de diversas secretarias, acompanhando cronogramas, certificados e renovações de contratos.
+Minha base técnica vem de Sistemas de Informação pelo Centro Universitário Braz Cubas, com conclusão prevista para o fim de 2026 e TCC voltado à segurança em aplicações web, além de experiência prática em infraestrutura de TI e formação complementar em Python e ciência de dados. A formação técnica em Administração pela Etec completa essa visão, unindo gestão e tecnologia.
 
-Minha base técnica vem de Sistemas de Informação pela Braz Cubas, com conclusão prevista para o fim de 2026 e TCC voltado à segurança em aplicações web, além de experiência prática em infraestrutura de TI e formação complementar em Python e ciência de dados. A formação técnica em Administração pela Etec completa essa visão, unindo gestão e tecnologia.
+Acredito que a modernização do setor público passa por processos bem controlados, dados confiáveis e decisões fundamentadas. Por isso, meu próximo passo é a especialização em Governança de TI, Segurança Digital e Gestão de Dados, aprofundando temas como gestão de riscos, compliance, segurança da informação e governança de dados.
 
-Acredito que a modernização do setor público passa por processos bem controlados, dados confiáveis e decisões fundamentadas. Por isso, meu próximo passo é a especialização em Governança de TI, aprofundando temas como gestão de riscos, compliance, segurança da informação e governança de dados.
+<br><br>davigamasan20@outlook.com</p>
 <br><br>Linkedin:<br>www.linkedin.com/in/davigama</p>
 
 ###
